@@ -1,0 +1,271 @@
+Package: boost-date_time
+Version: 1.73.0-1
+Depends: libc, libstdcpp6, libpthread, librt
+License: BSL-1.0
+Section: libs
+CPE-ID: cpe:/a:boost:boost
+Architecture: arm_cortex-a9
+Installed-Size: 942
+Filename: boost-date_time_1.73.0-1_arm_cortex-a9.ipk
+Size: 1756
+SHA256sum: 79443a96176fd613935e8f2a258db6b30e00d10c968d685f324a8978e4931946
+Description:  This package contains the Boost date_time library.
+
+Package: boost-program_options
+Version: 1.73.0-1
+Depends: libc, libstdcpp6, libpthread, librt
+License: BSL-1.0
+Section: libs
+CPE-ID: cpe:/a:boost:boost
+Architecture: arm_cortex-a9
+Installed-Size: 68745
+Filename: boost-program_options_1.73.0-1_arm_cortex-a9.ipk
+Size: 69365
+SHA256sum: 74b4a23366d44f0b56055b2005c0626bd4c040b16a18d115097580f06e83685a
+Description:  This package contains the Boost program_options library.
+
+Package: boost-system
+Version: 1.73.0-1
+Depends: libc, libstdcpp6, libpthread, librt
+License: BSL-1.0
+Section: libs
+CPE-ID: cpe:/a:boost:boost
+Architecture: arm_cortex-a9
+Installed-Size: 928
+Filename: boost-system_1.73.0-1_arm_cortex-a9.ipk
+Size: 1737
+SHA256sum: 9ab6f80d22ee0c41599d0a966951b35a035f220ac6cb17933291b867df530c77
+Description:  This package contains the Boost system library.
+
+Package: boost
+Version: 1.73.0-1
+Depends: libc, libstdcpp6, libpthread, librt
+License: BSL-1.0
+Section: libs
+CPE-ID: cpe:/a:boost:boost
+Architecture: arm_cortex-a9
+Installed-Size: 105
+Filename: boost_1.73.0-1_arm_cortex-a9.ipk
+Size: 1261
+SHA256sum: 97c1d6b6f94f35ac3729969ce397ae614e6582759482886b871b10402b52c064
+Description:  This package provides the Boost v1.73.0 libraries.
+ Boost is a set of free, peer-reviewed, portable C++ source libraries.
+ 
+ This package provides the following run-time libraries:
+ - atomic
+ - chrono
+ - container
+ - context
+ - contract
+ - coroutine and coroutine2 (Coroutine is deprecated - use Coroutine2)
+ - date_time
+ - exception
+ - filesystem
+ - fiber
+ - graph
+ - - graph-parallel
+ - iostreams
+ - locale (Requires kernel being compiled with full language support)
+ - log
+ - math
+ - program_options
+ - python3
+ - random
+ - regex
+ - serialization and wserialization
+ - stackstrace
+ - system
+ - thread
+ - timer
+ - type_erasure
+ - wave
+ 
+ There are many more header-only libraries supported by Boost.
+ See more at http://www.boost.org/doc/libs/1_72_0/
+
+Package: coreutils-base64
+Version: 8.32-1
+Depends: libc, coreutils
+Alternatives: 300:/bin/base64:/usr/bin/gnu-base64
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: arm_cortex-a9
+Installed-Size: 19525
+Filename: coreutils-base64_8.32-1_arm_cortex-a9.ipk
+Size: 20377
+SHA256sum: b11bda1308b44ccf398dbb0a7b9e34e38d215040cec6e0561b3ed65b06a2078c
+Description:  Full version of standard GNU base64 utility.
+
+Package: coreutils
+Version: 8.32-1
+Depends: libc
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: arm_cortex-a9
+Installed-Size: 105
+Filename: coreutils_8.32-1_arm_cortex-a9.ipk
+Size: 979
+SHA256sum: 0b91e56809d7eabea3bec7aa31c74f071f3a14b2a3faccefb73deee220a405e1
+Description:  Full versions of standard GNU utilities. If an equivalent Busybox applet is
+ available, you should consider compiling that instead as Busybox applets are
+ usually smaller, at the expense of reduced functionality.
+
+Package: ddns-scripts
+Version: 2.7.8-3
+License: GPL-2.0
+Section: net
+Architecture: all
+Installed-Size: 14583
+Filename: ddns-scripts_2.7.8-3_all.ipk
+Size: 15655
+SHA256sum: dd8dd61d5f91cd3007751fbc7df7a7176c6b09d0cc46f9fd38cb4c3dbd2237c2
+Description:  Dynamic DNS Client scripts (with IPv6 support) - Info: http://wiki.openwrt.org/doc/howto/ddns.client
+
+Package: etherwake
+Version: 1.09-5
+Depends: libc
+Section: net
+Architecture: arm_cortex-a9
+Installed-Size: 5039
+Filename: etherwake_1.09-5_arm_cortex-a9.ipk
+Size: 5958
+SHA256sum: fe36834a630d7e52c7aa973a679ba5f1c4f40cc621c6f843205f026c88d64194
+Description:  You can wake up WOL compliant Computers which have been powered down to
+ sleep mode or start WOL compliant Computers with a BIOS feature.
+ WOL is an abbreviation for Wake-on-LAN. It is a standard that allows you
+ to turn on a computer from another location over a network connection.
+ ether-wake also supports WOL passwords.
+
+Package: libcap
+Version: 2.36-1
+Depends: libc
+License: GPL-2.0-only
+Section: libs
+Architecture: arm_cortex-a9
+Installed-Size: 9790
+Filename: libcap_2.36-1_arm_cortex-a9.ipk
+Size: 10495
+SHA256sum: 67928900f08a452202045a8492c9c7de2ecfe8f2f069c8067d31b44cb35de397
+Description:  Linux capabilities library library
+
+Package: libev
+Version: 4.31-1
+Depends: libc
+License: BSD-2-Clause
+Section: libs
+Architecture: arm_cortex-a9
+Installed-Size: 21898
+Filename: libev_4.31-1_arm_cortex-a9.ipk
+Size: 22702
+SHA256sum: bdd4ac17aef2f5d179b8e14732c0367b7cfde4cda62bb20f012442277da04994
+Description:  A full-featured and high-performance event loop that is loosely modelled after
+ libevent, but without its limitations and bugs.
+
+Package: libsodium
+Version: 1.0.18-1
+Depends: libc
+License: ISC
+Section: libs
+Architecture: arm_cortex-a9
+Installed-Size: 117315
+Filename: libsodium_1.0.18-1_arm_cortex-a9.ipk
+Size: 118422
+SHA256sum: 3fe128d5f035221c595fece4e4b8bbbc155d2eedd1b8193ffcb657cf2bea59c9
+Description:  NaCl (pronounced "salt") is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.
+ NaCl's goal is to provide all of the core operations needed to build higher-level cryptographic tools.
+ Sodium is a portable, cross-compilable, installable, packageable fork of NaCl (based on the latest released upstream version nacl-20110221), with a compatible API.
+ The design choices, particularly in regard to the Curve25519 Diffie-Hellman function, emphasize security (whereas NIST curves emphasize "performance" at the cost of security), and "magic constants" in NaCl/Sodium have clear rationales.
+ The same cannot be said of NIST curves, where the specific origins of certain constants are not described by the standards.
+ And despite the emphasis on higher security, primitives are faster across-the-board than most implementations of the NIST standards.
+
+Package: libuv1
+Version: 1.34.2-1
+Depends: libc, libpthread, librt
+Provides: libuv
+License: MIT
+Section: libs
+CPE-ID: cpe:/a:libuv_project:libuv
+Architecture: arm_cortex-a9
+Installed-Size: 53129
+Filename: libuv1_1.34.2-1_arm_cortex-a9.ipk
+Size: 53899
+SHA256sum: 7730e55008cf89a9e34fed84a4deb5dd7680df1722019dbaa7a197bd65a7cee5
+Description:  libuv is a multi-platform support library with a focus on asynchronous I/O. It
+ was primarily developed for use by Node.js, but it's also used by Luvit, Julia,
+ pyuv, and others.
+
+Package: libwebsockets-full
+Version: 3.2.1-1
+Depends: libc, zlib, libcap, libopenssl1.1, libuv1
+Provides: libwebsockets
+License: LGPL-2.1+exception
+Section: libs
+Architecture: arm_cortex-a9
+Installed-Size: 130888
+Filename: libwebsockets-full_3.2.1-1_arm_cortex-a9.ipk
+Size: 131208
+SHA256sum: b1d6b8d97c3b28927f1451028d98eef8f43f6931deda6713e4ea85c4fd251744
+Description:  libwebsockets (Full - OpenSSL, libuv, plugins, CGI)
+
+Package: miniupnpd
+Version: 2.0.20170421-2
+Depends: libc, iptables, libip4tc2, libuuid1
+License: BSD-3-Clause
+Section: net
+Architecture: arm_cortex-a9
+Installed-Size: 53360
+Filename: miniupnpd_2.0.20170421-2_arm_cortex-a9.ipk
+Size: 54269
+SHA256sum: 135a873a5271178a0200d7879fed30dc633320a191e35a1b05d1435eed156b8d
+Description:  Lightweight UPnP IGD, NAT-PMP & PCP daemon
+
+Package: nlbwmon
+Version: 2020-04-11.1-34a18876-2
+Depends: libc, libubox20191228, libnl-tiny, zlib, kmod-nf-conntrack-netlink
+License: ISC
+Section: net
+Architecture: arm_cortex-a9
+Installed-Size: 18899
+Filename: nlbwmon_2020-04-11.1-34a18876-2_arm_cortex-a9.ipk
+Size: 19774
+SHA256sum: d882b5ce6c5be57aba0431c4a0b3561d3a294f52091ec684ec9738a9fb7652cb
+Description:  LEDE Traffic Usage Monitor
+
+Package: shadowsocks-libev-ss-local
+Version: 3.3.4-4
+Depends: libc, libev, libmbedtls12, libpthread, libsodium, libpcre
+License: GPL-3.0-or-later
+Section: net
+Architecture: arm_cortex-a9
+Installed-Size: 49217
+Filename: shadowsocks-libev-ss-local_3.3.4-4_arm_cortex-a9.ipk
+Size: 50008
+SHA256sum: f0984b5965a01afade5c1cd2281e78ea15270fbd9ccdd27080c8f9ffb13b15b5
+Description:  shadowsocks-libev ss-local
+
+Package: shadowsocks-libev-ss-redir
+Version: 3.3.4-4
+Depends: libc, libev, libmbedtls12, libpthread, libsodium
+License: GPL-3.0-or-later
+Section: net
+Architecture: arm_cortex-a9
+Installed-Size: 42611
+Filename: shadowsocks-libev-ss-redir_3.3.4-4_arm_cortex-a9.ipk
+Size: 43426
+SHA256sum: e58e0fcf982581cf5f89ad3619b3584f4b97456cb4893f972282c3aa344b6c88
+Description:  shadowsocks-libev ss-redir
+
+Package: ttyd
+Version: 1.6.0-2
+Depends: libc, libopenssl1.1, libjson-c4, libuv1, zlib, libwebsockets-full
+License: MIT
+Section: utils
+Architecture: arm_cortex-a9
+Installed-Size: 221496
+Filename: ttyd_1.6.0-2_arm_cortex-a9.ipk
+Size: 222118
+SHA256sum: 2fc150fa95d931b4d2cd3b5d168f571e545b69d75431e26d8653a9617a39f565
+Description:  ttyd is a command-line tool for sharing terminal over the web.
+

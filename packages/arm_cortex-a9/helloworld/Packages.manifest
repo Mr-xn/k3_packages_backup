@@ -1,0 +1,39 @@
+Package: luci-app-ssr-plus
+Version: 180-5
+Depends: libc, shadowsocksr-libev-alt, ipset, ip-full, iptables-mod-tproxy, dnsmasq-full, coreutils, coreutils-base64, pdnsd-alt, wget, lua, libuci-lua, microsocks, dns2socks, shadowsocks-libev-ss-local, shadowsocksr-libev-ssr-local, shadowsocks-libev-ss-redir, simple-obfs, tcping, resolveip, v2ray-plugin, v2ray, trojan, ipt2socks, redsocks2, shadowsocksr-libev-server
+Source: feeds/helloworld/luci-app-ssr-plus
+SourceName: luci-app-ssr-plus
+Section: luci
+Architecture: all
+Installed-Size: 113514
+Filename: luci-app-ssr-plus_180-5_all.ipk
+Size: 112917
+SHA256sum: f40f43fdeb5730f69e0664df898b33961888b1c4ab7f539ebf32de8d415d4a16
+Description:  SS/SSR/V2Ray/Trojan/Socks5/Tun LuCI interface
+
+Package: luci-i18n-ssr-plus-zh-cn
+Version: 180-5
+Depends: libc, luci-app-ssr-plus
+Source: feeds/helloworld/luci-app-ssr-plus
+SourceName: luci-i18n-ssr-plus-zh-cn
+Section: luci
+Architecture: all
+Installed-Size: 5979
+Filename: luci-i18n-ssr-plus-zh-cn_180-5_all.ipk
+Size: 6779
+SHA256sum: 87381bca77ee961d66b85dd8fb5ce8190398cb525e5b7a8270a056aaefdff94b
+Description:  Translation for luci-app-ssr-plus - 简体中文 (Simplified Chinese)
+
+Package: tcping
+Version: 0.3-1
+Depends: libc
+Source: feeds/helloworld/tcping
+SourceName: tcping
+Section: net
+Architecture: arm_cortex-a9
+Installed-Size: 3495
+Filename: tcping_0.3-1_arm_cortex-a9.ipk
+Size: 4172
+SHA256sum: 7e4cb90023e36029119c44e452d44a7b6424456d2e64f0e4438735223f9811a5
+Description:  tcping measures the latency of a tcp-connection
+
