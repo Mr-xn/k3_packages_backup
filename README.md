@@ -3,6 +3,7 @@
 > 有时间会解答你们的安装或者编译问题，没时间也请见谅，谢谢。  
 > 编译环境为 Ubuntu 18.04 Desktop x64，大雕的说明没有说是桌面版本还是服版本，再次提醒下想自己编译的朋友。  
 > 源码来自[lede](https://github.com/coolsnowwolf/lede)，更多问题解答请前往他的`issue`里面搜索下，不要什么不懂，张嘴就问！要培养自己的`problems solving skill`。  
+> 如果需要加入一些特殊功能，请在克隆后把`lede`目录下的`feeds.conf.default`文件的`#src-git helloworld https://github.com/fw876/helloworld` `#`去掉然后在按照步骤开始编译
 
 ## 备份插件文件列表
 ### 编译时间:2020/09/01
