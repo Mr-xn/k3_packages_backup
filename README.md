@@ -114,7 +114,7 @@
 ├── urandom-seed_1.0-2_arm_cortex-a9.ipk
 ├── urngd_2020-01-21-c7f7b6b6-1_arm_cortex-a9.ipk
 ├── usign_2020-05-23-f1f65026-1_arm_cortex-a9.ipk
-├── v2ray_4.28.2-1_arm_cortex-a9.ipk
+├── v2ray_4.31.0-1_arm_cortex-a9.ipk
 ├── v2ray-plugin_1.4.1-1_arm_cortex-a9.ipk
 ├── vlmcsd_svn1113-1_arm_cortex-a9.ipk
 ├── vsftpd-alt_3.0.3-7_arm_cortex-a9.ipk
