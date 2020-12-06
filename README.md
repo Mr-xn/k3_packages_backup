@@ -6,7 +6,8 @@
 > 如果需要加入一些特殊功能，请在克隆后把`lede`目录下的`feeds.conf.default`文件的`#src-git helloworld https://github.com/fw876/helloworld` `#`去掉然后在按照步骤开始编译
 
 ## 备份插件文件列表
-### 编译时间:2020/09/01
+### 最新编译时间:2020/12/06  
+> 增加了对`xray`的支持
 
 ```other
 .
