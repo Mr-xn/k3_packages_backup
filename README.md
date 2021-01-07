@@ -5,6 +5,7 @@
 > 源码来自[lede](https://github.com/coolsnowwolf/lede)，更多问题解答请前往他的`issue`里面搜索下，不要什么不懂，张嘴就问！要培养自己的`problems solving skill`。  
 > 如果需要加入一些特殊功能，请在克隆后把`lede`目录下的`feeds.conf.default`文件的`#src-git helloworld https://github.com/fw876/helloworld` `#`去掉然后在按照步骤开始编译
 
-### 最新编译时间:2021/01/02  
+### 最新编译时间:2021/01/07  
 > 增加了对`xray`的支持  
-> 下载地址：[releases](https://github.com/Mr-xn/k3_packages_backup/releases)
+> 下载地址：[releases](https://github.com/Mr-xn/k3_packages_backup/releases)  
+> 添加 luci-app-vssr
